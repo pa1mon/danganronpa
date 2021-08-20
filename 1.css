@@ -1,0 +1,17 @@
+h1 {
+    color:purple;
+    text-align:center;
+    background-color:pink;
+}
+div{
+    margin:auto;
+width: 564px;
+  height: 564px;
+background-image: url("https://i.pinimg.com/236x/b6/2a/4b/b62a4be9c0a5c126722e263467a91ff5.jpg");
+    background-size: cover;
+}
+p{
+    font-size: larger;
+    text-align: center;
+    font-family: "Yu Gothic UI Semibold";
+}
