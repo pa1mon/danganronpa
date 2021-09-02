@@ -1,7 +1,7 @@
 h1 {
-    color:purple;
+    color:green;
     text-align:center;
-    background-color:pink;
+    background-color:darkgrey;
 }
 div{
     margin:auto;
@@ -12,8 +12,8 @@ width: 564px;
 p{
     font-size: larger;
     text-align: center;
-    font-family: "Yu Gothic UI Semibold";
+    font-family: "system-ui";
 }
-#Kirigiri_Kyoko {
-    background-image: url("img/Danganronpa.jpg");
+#gonta_gokuhara {
+    background-image: url("img/Gonta Gokuhara.jpg");
 }

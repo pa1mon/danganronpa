@@ -1,0 +1,48 @@
+h1 {
+    color:white;
+    text-align:center;
+    background-color:green;
+}
+h1#main{
+    background-color:white;
+    color:black;
+    font-size: 64px;
+    font-family:SlimamifMedium;
+
+}
+#chiak  {
+    width: 444px;
+    height: 450px;
+    margin-left: 104px;
+
+}
+#cult {
+    width: 457px;
+    height: 465px;
+    margin-left: 183px;
+}
+#vendy {
+    width: 422px;
+    height: 360px;
+    margin-left: 184px;
+}
+div{
+    margin:auto;
+width: 564px;
+  height: 564px;
+    background-size: cover;
+}
+p{
+    font-size: larger;
+    text-align: center;
+    font-family: "y";
+}
+#nagito_komaeda  {
+    background-image: url("img/nagito Cult.jpg");
+}
+#gonta_gokuhara  {
+    background-image: url("img/Gonta Gokuhara.jpg");
+}
+#kokichi_ouma  {
+    background-image: url("img/Ibble’s Scribbles.jpg");
+}
