@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+iframe{
+    width: 1000px;
+    height: 500px;
+    border: 15px solid black;
+    float: right;
+}
+#vidos1{
+    float: left;
+    width: 500px;
+    height: 250px;
+}
+#nagitos{
+    margin: auto;
+    display: block;
+    border-left: 15px solid;
+}
+body{
+    background-image: url("Najito.jpg");
+}
