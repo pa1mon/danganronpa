@@ -46,3 +46,7 @@ p{
 #kokichi_ouma  {
     background-image: url("img/Ibble’s Scribbles.jpg");
 }
+.size{
+    background-color: saddlebrown;
+    float:right;
+}
